@@ -36,6 +36,13 @@
                     PrimeNumber obj = new PrimeNumber();
                     obj.CheckPrime(2);
                     break;
+                case 4:
+                    //Reverse a number
+                    ReverseNumber obj1 = new ReverseNumber();
+                    obj1.Reverse(123);
+                    break;
+
+
 
             }
         }
