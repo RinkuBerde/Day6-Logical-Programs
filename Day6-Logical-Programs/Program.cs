@@ -31,6 +31,12 @@
                     PerfectNumber perfect = new PerfectNumber();
                     perfect.CheckPerfectNumber(28);
                     break;
+                case 3:
+                    //prime number
+                    PrimeNumber obj = new PrimeNumber();
+                    obj.CheckPrime(2);
+                    break;
+
             }
         }
     }
